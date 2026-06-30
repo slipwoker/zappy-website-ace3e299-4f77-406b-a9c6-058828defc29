@@ -1,0 +1,86 @@
+# Terra Cyprus — Generative Engine Optimization Map
+
+> A real estate business specializing in buying and selling land plots in Cyprus. The business operates in the Cypriot property market, likely targeting investors or buyers interested in land acquisition opportunities on the island. The focus is on land transactions rather than built properties, positioning the business as a specialist in raw land deals in Cyprus.
+
+---
+
+## Pages
+
+### בית
+https://terra-cyprus-ace3e299.zappy5.app
+מחפש להשקיע בקרקע בקפריסין? טרה קפריסין, סוכן הנדל&quot;ן המוביל באי, מזמין אותך לגלות הזדמנויות נדירות לרכישת מגרשים. התחל את מסע ההשקעה שלך עוד היום וקבל ייעוץ מקצועי ללא התחייבות.
+
+### שירותי קרקע
+https://terra-cyprus-ace3e299.zappy5.app/services
+מחפש תיווך מקצועי לעסקאות קרקע? שירותי הקרקע של טרה קפריסין מציעים ליווי מלא באיתור, רכישה ומכירה של מגרשים בקפריסין. הצטרף למשקיעים חכמים שכבר הרוויחו איתנו.
+
+### אודות טרה קפריסין
+https://terra-cyprus-ace3e299.zappy5.app/about
+רוצה להכיר את הכוח המניע מאחורי עסקאות הקרקע המוצלחות באי? צוות טרה קפריסין מביא ניסיון עשיר ואהבה אמיתית לנדל&quot;ן קפריסאי. גלה למה אנחנו הבחירה הראשונה של משקיעים.
+
+### צור קשר
+https://terra-cyprus-ace3e299.zappy5.app/contact
+מוכן לעשות את הצעד הראשון לעבר בעלות על קרקע בקפריסין? צור קשר עם טרה קפריסין עכשיו לשיחת ייעוץ אישית. המומחים שלנו מחכים להפוך את החלום שלך למציאות רווחית.
+
+### תודה - Terra Cyprus
+https://terra-cyprus-ace3e299.zappy5.app/thank-you
+Terra Cyprus - תודה - Terra Cyprus
+
+## Legal & Policy
+
+### Privacy Policy
+https://terra-cyprus-ace3e299.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://terra-cyprus-ace3e299.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://terra-cyprus-ace3e299.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://terra-cyprus-ace3e299.zappy5.app/about
+- Endpoint: https://terra-cyprus-ace3e299.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Terra Cyprus
+A real estate business specializing in buying and selling land plots in Cyprus. The business operates in the Cypriot property market, likely targeting investors or buyers interested in land acquisition opportunities on the island. The focus is on land transactions rather than built properties, positioning the business as a specialist in raw land deals in Cyprus.
+
+## Services/Products
+- קניית קרקעות בקפריסין
+- מכירת קרקעות בקפריסין
+
+## Target Audience
+- משקיעים בקפריסין
+- גמלאים אירופיים
+- מקצוענים זרים
+
+## Industry
+Real Estate
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://terra-cyprus-ace3e299.zappy5.app/sitemap.xml
+- Robots: https://terra-cyprus-ace3e299.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://terra-cyprus-ace3e299.zappy5.app/llms-full.txt
