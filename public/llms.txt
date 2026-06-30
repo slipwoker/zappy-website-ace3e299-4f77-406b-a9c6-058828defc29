@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://terra-cyprus-ace3e299.zappy5.app
+https://example.com
 מחפש להשקיע בקרקע בקפריסין? טרה קפריסין, סוכן הנדל&quot;ן המוביל באי, מזמין אותך לגלות הזדמנויות נדירות לרכישת מגרשים. התחל את מסע ההשקעה שלך עוד היום וקבל ייעוץ מקצועי ללא התחייבות.
 
 ### שירותי קרקע
-https://terra-cyprus-ace3e299.zappy5.app/services
+https://example.com/services
 מחפש תיווך מקצועי לעסקאות קרקע? שירותי הקרקע של טרה קפריסין מציעים ליווי מלא באיתור, רכישה ומכירה של מגרשים בקפריסין. הצטרף למשקיעים חכמים שכבר הרוויחו איתנו.
 
 ### אודות טרה קפריסין
-https://terra-cyprus-ace3e299.zappy5.app/about
+https://example.com/about
 רוצה להכיר את הכוח המניע מאחורי עסקאות הקרקע המוצלחות באי? צוות טרה קפריסין מביא ניסיון עשיר ואהבה אמיתית לנדל&quot;ן קפריסאי. גלה למה אנחנו הבחירה הראשונה של משקיעים.
 
 ### צור קשר
-https://terra-cyprus-ace3e299.zappy5.app/contact
+https://example.com/contact
 מוכן לעשות את הצעד הראשון לעבר בעלות על קרקע בקפריסין? צור קשר עם טרה קפריסין עכשיו לשיחת ייעוץ אישית. המומחים שלנו מחכים להפוך את החלום שלך למציאות רווחית.
 
 ### תודה - Terra Cyprus
-https://terra-cyprus-ace3e299.zappy5.app/thank-you
+https://example.com/thank-you
 Terra Cyprus - תודה - Terra Cyprus
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://terra-cyprus-ace3e299.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://terra-cyprus-ace3e299.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://terra-cyprus-ace3e299.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://terra-cyprus-ace3e299.zappy5.app/about
-- Endpoint: https://terra-cyprus-ace3e299.zappy5.app/api/email/contact-form
+- URL: https://example.com/about
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Real Estate
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://terra-cyprus-ace3e299.zappy5.app/sitemap.xml
-- Robots: https://terra-cyprus-ace3e299.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://terra-cyprus-ace3e299.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
