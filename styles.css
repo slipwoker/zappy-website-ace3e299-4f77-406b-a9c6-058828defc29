@@ -7448,6 +7448,19 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+.index-positioning-section .index-positioning-section__card-icon svg path,
+.index-positioning-section .index-positioning-section__card-icon svg circle,
+.index-positioning-section .index-positioning-section__card-icon svg rect {
+  fill: none !important;
+}
+
+.index-positioning-section .index-positioning-section__card-icon svg {
+  color: var(--text-light);
+}
+/* zappy-self-heal */
+.index-positioning-section .index-positioning-section__card-icon svg { color: var(--text-light) !important; }
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
