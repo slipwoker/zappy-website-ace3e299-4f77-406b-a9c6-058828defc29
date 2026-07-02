@@ -7467,6 +7467,13 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   top: 62% !important;
 }
 }
+
+@media (max-width: 768px) {
+.index-hero-section .hero-overlay {
+  top: 50% !important;
+  transform: translateY(-50%) !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
