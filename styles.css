@@ -7488,6 +7488,41 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .contact-faq-section .contact-faq-section__card {
   background: var(--primary-color) !important;
 }
+
+.contact-faq-section .contact-faq-section__card {
+  background-color: var(--primary-color) !important;
+  border-color: rgba(255,255,255,0.15) !important;
+}
+
+.contact-faq-section .contact-faq-section__question {
+  color: #ffffff !important;
+}
+
+.contact-faq-section .contact-faq-section__answer {
+  color: rgba(255,255,255,0.9) !important;
+}
+
+.contact-faq-section .contact-faq-section__card-icon {
+  background-color: rgba(255,255,255,0.15) !important;
+  color: #ffffff !important;
+}
+
+.contact-faq-section .contact-faq-section__card:hover {
+  border-color: rgba(255,255,255,0.3) !important;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.25) !important;
+}
+
+.contact-faq-section .contact-faq-section__answer {
+  color: #ffffff !important;
+}
+
+.contact-faq-section .contact-faq-section__card-icon {
+  color: #ffffff !important;
+}
+
+.contact-faq-section .contact-faq-section__question {
+  color: rgba(255,255,255,0.9) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
