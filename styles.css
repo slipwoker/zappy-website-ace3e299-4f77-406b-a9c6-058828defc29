@@ -7484,6 +7484,10 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   background-color: rgba(255,255,255,0.15) !important;
   color: #ffffff !important;
 }
+
+.contact-faq-section .contact-faq-section__card {
+  background: var(--primary-color) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
