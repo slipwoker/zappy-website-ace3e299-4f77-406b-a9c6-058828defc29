@@ -7634,6 +7634,84 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 html body .index-process-section__step:nth-child(2) .index-process-section__step-content { margin-right: auto !important; }
 html body .index-process-section__step:nth-child(3) .index-process-section__step-content { margin-left: auto !important; }
 
+
+@media (max-width: 768px) {
+.index-process-section__timeline {
+  padding-inline-start: 0;
+}
+
+.index-process-section__line {
+  left: 18px;
+  right: auto;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  height: auto;
+  transform: none;
+  background: linear-gradient(180deg, var(--secondary) 0%, var(--primary) 25%, var(--secondary) 50%, var(--primary) 75%, var(--secondary) 100%);
+  opacity: 0.6;
+}
+
+.index-process-section__step {
+  flex-direction: row;
+  align-items: flex-start;
+  margin-bottom: 36px;
+  max-width: 100%;
+  gap: 20px;
+}
+
+.index-process-section__step:last-child {
+  margin-bottom: 0;
+}
+
+.index-process-section__step-marker {
+  position: relative;
+  left: auto;
+  transform: none;
+  width: 48px;
+  height: 48px;
+  margin-inline-end: 16px;
+  flex-shrink: 0;
+  z-index: 2;
+}
+
+.index-process-section__step-content {
+  max-width: none;
+  padding: 0;
+  flex: 1 1 auto;
+}
+
+.index-process-section__step:nth-child(2) .index-process-section__step-content,
+  .index-process-section__step:nth-child(3) .index-process-section__step-content,
+  .index-process-section__step:nth-child(4) .index-process-section__step-content,
+  .index-process-section__step:nth-child(5) .index-process-section__step-content {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.index-process-section__step:nth-child(2) .index-process-section__step-title,
+  .index-process-section__step:nth-child(2) .index-process-section__step-text,
+  .index-process-section__step:nth-child(3) .index-process-section__step-title,
+  .index-process-section__step:nth-child(3) .index-process-section__step-text,
+  .index-process-section__step:nth-child(4) .index-process-section__step-title,
+  .index-process-section__step:nth-child(4) .index-process-section__step-text,
+  .index-process-section__step:nth-child(5) .index-process-section__step-title,
+  .index-process-section__step:nth-child(5) .index-process-section__step-text {
+  text-align: right;
+}
+}
+
+@media (max-width: 768px) {
+.index-process-section__line {
+  left: auto;
+  right: 24px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  height: auto;
+  transform: none;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
