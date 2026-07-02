@@ -7902,6 +7902,14 @@ html body .index-process-section__step:nth-child(3) .index-process-section__step
   transform: translateY(-4px) !important;
 }
 }
+
+.index-process-section__step:nth-child(3) .index-process-section__step-title,
+.index-process-section__step:nth-child(3) .index-process-section__step-text,
+.index-process-section__step:nth-child(5) .index-process-section__step-title,
+.index-process-section__step:nth-child(5) .index-process-section__step-text {
+  text-align: right !important;
+  direction: rtl !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
