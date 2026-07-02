@@ -7764,6 +7764,83 @@ html body .index-process-section__step:nth-child(3) .index-process-section__step
   transform: translateY(-4px) !important;
 }
 }
+
+@media (max-width: 768px) {
+.index-process-section__timeline {
+  padding-inline-start: 0 !important;
+  align-items: flex-start !important;
+}
+
+.index-process-section__line {
+  left: auto !important;
+  right: 24px !important;
+  top: 0 !important;
+  bottom: 0 !important;
+  width: 2px !important;
+  height: auto !important;
+  transform: none !important;
+  background: linear-gradient(180deg, var(--secondary) 0%, var(--primary) 25%, var(--secondary) 50%, var(--primary) 75%, var(--secondary) 100%) !important;
+  opacity: 0.6 !important;
+}
+
+.index-process-section__step {
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  width: 100% !important;
+  max-width: none !important;
+  margin-bottom: 40px !important;
+  gap: 16px !important;
+}
+
+.index-process-section__step:last-child {
+  margin-bottom: 0 !important;
+}
+
+.index-process-section__step:nth-child(2),
+  .index-process-section__step:nth-child(3),
+  .index-process-section__step:nth-child(4),
+  .index-process-section__step:nth-child(5) {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.index-process-section__step-marker {
+  position: relative !important;
+  left: auto !important;
+  right: auto !important;
+  transform: none !important;
+  width: 48px !important;
+  height: 48px !important;
+  margin: 0 !important;
+  flex-shrink: 0 !important;
+  z-index: 2 !important;
+}
+
+.index-process-section__step-content {
+  flex: 1 1 auto !important;
+  max-width: none !important;
+  padding: 0 !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.index-process-section__step:nth-child(2) .index-process-section__step-content,
+  .index-process-section__step:nth-child(3) .index-process-section__step-content,
+  .index-process-section__step:nth-child(4) .index-process-section__step-content,
+  .index-process-section__step:nth-child(5) .index-process-section__step-content {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.index-process-section__step-title,
+  .index-process-section__step-text {
+  text-align: right !important;
+}
+
+.index-process-section__step:hover .index-process-section__step-marker {
+  transform: translateY(-4px) !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
